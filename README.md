@@ -1,0 +1,1 @@
+# vertical-micro-frontend
